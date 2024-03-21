@@ -677,6 +677,10 @@ layout: image-right
 image: https://cover.sli.dev
 ---
 
-# Merci
+# 🙏 Merci
 
-## 🙏 Questions ?
+## Questions ?
+
+<div class="pt-12 flex">
+    <img src="/images/qr-code.png" style="margin: auto; max-height: 30vh;">
+</div>
