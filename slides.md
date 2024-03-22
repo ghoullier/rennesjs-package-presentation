@@ -405,7 +405,7 @@ transition: slide-up
 
 # Les modules non-standard
 
-Repose sur des fonctions disponibles au runtime
+Repose sur des fonctions disponible au runtime
 
 ### CommonJS (NodeJS/Bundlers)
 
@@ -448,7 +448,7 @@ const schema = z.object({
 export { schema  }
 ```
 
-Les imports dynamiques sont supportés à partir d'ES2020 et sont nécésairement asynchrone. Top-level await est introduit en ES2022.
+Les imports dynamiques sont supportés à partir d'ES2020 et sont nécessairement asynchrone. Top-level await est introduit en ES2022.
 
 ```javascript
 await import(`./${name}.js`)
@@ -519,7 +519,7 @@ Ces limitations sont des irritants pour l'ensemble de la communauté JavaScript.
 transition: slide-up
 ---
 
-# 📊 État de l'écossytème
+# 📊 État de l'écosytème
 
 <div class="pt-12 flex">
     <img src="https://pbs.twimg.com/media/GGx8R7dWQAAuB3g?format=jpg&name=medium" style="margin: auto; max-height: 30vh;">
@@ -592,7 +592,7 @@ transition: slide-up
 Mettre à jour vos dépendances vous permet de bénéficier des dernières fonctionnalités, des correctifs de sécurité.
 
 
-Maintenir de vos dépendances à jour est un investissement rentable pour tout les projets sur lesquels vous devez intervenir.
+Maintenir de vos dépendances à jour est un investissement rentable pour tous les projets sur lesquels vous devez intervenir.
 
 ---
 transition: slide-up
